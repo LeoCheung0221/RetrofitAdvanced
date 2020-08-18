@@ -1,0 +1,5 @@
+rootProject.name='RetrofitHandRolled'
+include ':app'
+include ':mustmasterinject'
+include ':mustmasterlivedata'
+include ':mustmasterinject:libsimple'
